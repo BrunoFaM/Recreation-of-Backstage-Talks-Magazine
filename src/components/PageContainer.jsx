@@ -1,4 +1,3 @@
-import React from "react";
 import logo from "../assets/logo.png";
 import BooksList from "./BooksList";
 function PageContainer() {
